@@ -1,5 +1,5 @@
 # 산업통상자원부
-환경 규제 대응 및 대기오염물질의 지속적 관리를 위한 질소산화물 발생량 예측 모델 개발한다.
+환경 규제 대응 및 대기오염물질의 지속적 관리를 위한 질소산화물 발생량 예측 모델을 개발한다.
 
 ### 요약
 1. 데이터 수집 및 전처리
@@ -13,6 +13,9 @@
 - NOx 데이터만으로 1차 학습
 - 날씨 + 연료 소비량 포함해 2차 학습
 - 성능 지표 비교 (RMSE, MAE 등)
+
+## 기술 스택
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1748679259527?alt=media&token=556bbe24-6f30-4df8-aade-5b20b986a77a)](https://github.com/msdio/stackticon)
 
 ## 폴더 구조
 - `data/`: 원본 및 전처리 데이터
